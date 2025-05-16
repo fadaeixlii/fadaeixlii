@@ -62,9 +62,8 @@ Recently, I’ve led the development of **Jeofferte** (netherlands), a modern pl
 - 👨‍🏫 Assistant professor for computer engineering subjects
 - 🔧 Decreased post-deployment bugs by 60% via solid testing
 
-### 🌐 Portfolio & Live Projects
+### 🌐 Live Projects
 
-- 🚀 [**Portfolio**](https://fadaeixlii-space.vercel.app/) – Explore my work and skills
 - 💎 [**Jeofferte**](https://jeofferte.nl/) – Offer-based platform for exclusive deals
 - 🌐 [**Opalify Website**](https://opali-fi-website.vercel.app/) – Elegant finance landing site
 - 📈 [**IntEx Exchange**](https://intex.finance/) – Crypto exchange platform with deep order books
@@ -74,8 +73,5 @@ Recently, I’ve led the development of **Jeofferte** (netherlands), a modern pl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadaeixlii&layout=compact&theme=github_dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fadaeixlii&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-- 📧 [Email me](mailto:mohammad4252@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadmkh/)
 
 **Fun Fact:** When I'm not coding, I enjoy exploring the world of digital art and design.
