@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Accessibility+Advocate;Open+Source+Contributor;" alt="Typing SVG" />
 </p>
 
 ### 👋 Hi, I'm a Full-Stack Web Developer
