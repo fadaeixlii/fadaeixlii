@@ -67,6 +67,7 @@ Recently, I’ve led the development of **Jeofferte** (netherlands), a modern pl
 - 💎 [**Jeofferte**](https://jeofferte.nl/) – Offer-based platform for exclusive deals
 - 🌐 [**Opalify Website**](https://opali-fi-website.vercel.app/) – Elegant finance landing site
 - 📈 [**IntEx Exchange**](https://intex.finance/) – Crypto exchange platform with deep order books
+- 📈 [**Browser-cache-manager**](https://browser-cache-manager.vercel.app/) – A flexible caching package for API calls and functions with multiple storage strategies.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadaeixlii&show_icons=true&theme=radical)
 
