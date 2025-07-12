@@ -75,7 +75,7 @@ Recently, I’ve led the development of **Jeofferte** (netherlands), a modern pl
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fadaeixlii&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fadaeixlii&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 **Fun Fact:** When I'm not coding, I enjoy exploring the world of digital art and design.
