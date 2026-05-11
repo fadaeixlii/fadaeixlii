@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20M-Khani&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Web3%20%7C%20AI%20Platform%20Builder&descAlignY=55&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Web+Developer+(6%2B+Years);React+%7C+Next.js+%7C+NestJS+%7C+Node.js;Blockchain+%26+Web3+Enthusiast;AI+Platform+Architect;PWA+%26+Chrome+Extension+Builder" alt="Typing SVG" />
 <br/>
-[![GitHub followers](https://img.shields.io/github/followers/fadaeixlii?label=Follow&style=social)](https://github.com/fadaeixlii)
-[![Profile views](https://komarev.com/ghpvc/?username=fadaeixlii&label=Profile%20views&color=36BCF7&style=flat)](https://github.com/fadaeixlii)
+<a href="https://github.com/fadaeixlii"><img src="https://img.shields.io/github/followers/fadaeixlii?label=Follow&style=social" alt="GitHub followers"/></a>
+<a href="https://github.com/fadaeixlii"><img src="https://komarev.com/ghpvc/?username=fadaeixlii&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views"/></a>
  
 </div>
 ---
@@ -150,10 +150,8 @@ With **6+ years** of experience building scalable and secure web applications, I
  
 ## 📫 Connect With Me
  
-<div align="left">
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fadaeixlii)
+<a href="https://github.com/fadaeixlii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
  
-</div>
 ---
  
 <div align="center">
